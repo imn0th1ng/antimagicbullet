@@ -8,7 +8,7 @@ Players can easily make a for loop in a lua executor to loop through 1-X numbers
 
 A simple client-side dump by a cheater with a half decent brain will find this and most likely try to exploit it.
 
-Our other resources you can be interested
+# Our other resources you can be interested
 
 * https://forum.cfx.re/t/paid-double-connection-fix-pac-doubleconnection/5002895
 * https://forum.cfx.re/t/paid-anti-event-triggering-pac-antieventtriggering/5010660
